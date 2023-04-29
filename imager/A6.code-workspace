@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../outputs"
+		},
+		{
+			"path": "../samples"
+		},
+		{
+			"path": "../../lab23"
+		}
+	],
+	"settings": {}
+}
